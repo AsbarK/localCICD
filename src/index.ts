@@ -21,7 +21,7 @@ function add(a: number, b: number): number {
   const num1: number = 10;
   const num2: number = 5;
   
-  console.log("Simple TypeScript Demo In Local CICD");
+  console.log("Simple TypeScript Demo");
   
   console.log(`${num1} + ${num2} = ${add(num1, num2)}`);
   console.log(`${num1} - ${num2} = ${subtract(num1, num2)}`);
